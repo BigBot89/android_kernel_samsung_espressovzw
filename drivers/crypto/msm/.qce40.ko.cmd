@@ -1,0 +1,1 @@
+cmd_drivers/crypto/msm/qce40.ko := arm-eabi-ld -EL -r  -T /home/adam/android/kernel_dev/samsung/espressovzw/scripts/module-common.lds --build-id  -o drivers/crypto/msm/qce40.ko drivers/crypto/msm/qce40.o drivers/crypto/msm/qce40.mod.o

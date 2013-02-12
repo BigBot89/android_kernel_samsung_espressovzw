@@ -1,0 +1,1 @@
+cmd_drivers/battery/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/battery/built-in.o drivers/battery/sec_battery.o drivers/battery/sec_charger.o drivers/battery/sec_fuelgauge.o drivers/battery/max17050_fuelgauge.o drivers/battery/smb347_charger.o 

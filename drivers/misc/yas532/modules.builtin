@@ -1,0 +1,3 @@
+kernel/drivers/misc/yas532/accelerometer/yas_acc_kernel_driver.ko
+kernel/drivers/misc/yas532/geomagnetic/yas_mag_kernel_driver.ko
+kernel/drivers/misc/yas532/orientation/yas532_orient.ko

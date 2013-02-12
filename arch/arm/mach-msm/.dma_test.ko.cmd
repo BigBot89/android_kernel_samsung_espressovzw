@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-msm/dma_test.ko := arm-eabi-ld -EL -r  -T /home/adam/android/kernel_dev/samsung/espressovzw/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/dma_test.ko arch/arm/mach-msm/dma_test.o arch/arm/mach-msm/dma_test.mod.o

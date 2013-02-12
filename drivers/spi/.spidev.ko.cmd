@@ -1,0 +1,1 @@
+cmd_drivers/spi/spidev.ko := arm-eabi-ld -EL -r  -T /home/adam/android/kernel_dev/samsung/espressovzw/scripts/module-common.lds --build-id  -o drivers/spi/spidev.ko drivers/spi/spidev.o drivers/spi/spidev.mod.o

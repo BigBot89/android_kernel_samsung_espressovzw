@@ -4,7 +4,7 @@ source_scripts/kconfig/lxdialog/util.o := scripts/kconfig/lxdialog/util.c
 
 deps_scripts/kconfig/lxdialog/util.o := \
     $(wildcard include/config/color.h) \
-  /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdarg.h \
   scripts/kconfig/lxdialog/dialog.h \
   /usr/include/x86_64-linux-gnu/sys/types.h \
   /usr/include/features.h \
@@ -16,7 +16,7 @@ deps_scripts/kconfig/lxdialog/util.o := \
   /usr/include/x86_64-linux-gnu/bits/types.h \
   /usr/include/x86_64-linux-gnu/bits/typesizes.h \
   /usr/include/time.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stddef.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stddef.h \
   /usr/include/endian.h \
   /usr/include/x86_64-linux-gnu/bits/endian.h \
   /usr/include/x86_64-linux-gnu/bits/byteswap.h \
@@ -48,7 +48,7 @@ deps_scripts/kconfig/lxdialog/util.o := \
   /usr/include/x86_64-linux-gnu/bits/string.h \
   /usr/include/x86_64-linux-gnu/bits/string2.h \
   /usr/include/x86_64-linux-gnu/bits/string3.h \
-  /usr/lib/gcc/x86_64-linux-gnu/4.6/include/stdbool.h \
+  /usr/lib/gcc/x86_64-linux-gnu/4.7/include/stdbool.h \
   /usr/include/libintl.h \
   /usr/include/locale.h \
   /usr/include/x86_64-linux-gnu/bits/locale.h \

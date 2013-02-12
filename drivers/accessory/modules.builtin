@@ -1,0 +1,2 @@
+kernel/drivers/accessory/sec_tablet_conn.ko
+kernel/drivers/accessory/sec_keyboard.ko

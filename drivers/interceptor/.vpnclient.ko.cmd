@@ -1,0 +1,1 @@
+cmd_drivers/interceptor/vpnclient.ko := arm-eabi-ld -EL -r  -T /home/adam/android/kernel_dev/samsung/espressovzw/scripts/module-common.lds --build-id  -o drivers/interceptor/vpnclient.ko drivers/interceptor/vpnclient.o drivers/interceptor/vpnclient.mod.o
